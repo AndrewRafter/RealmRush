@@ -5,7 +5,7 @@ Title: Realm Rush
 
 Description:
 ------------
-A game where the player has place towers to stop the enemy from reaching the end of their path.
+A game where the player has to place towers to stop the enemy from reaching the end of their path.
 
 Controls:
 ------------
